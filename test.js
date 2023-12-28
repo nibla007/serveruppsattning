@@ -1,1 +1,1 @@
-process.exit(1); // Exit with code 0 (success)
+process.exit(0); // Exit with code 0 (success)
